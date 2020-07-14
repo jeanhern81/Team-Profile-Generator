@@ -1,0 +1,14 @@
+body {
+    background-color: whitesmoke;
+
+}
+
+.jumbotron {
+    background-color: black;
+    color:white;
+}
+
+.card-header {
+    background-color: black;
+    color: white;
+}

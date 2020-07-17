@@ -6,11 +6,10 @@ Created By: Jeanette Hernandez
 
 Date: 07/17/2020
  
-Demo: <a href="https://drive.google.com/file/d/1u8dA3MlEfGi8dAThzW93VSZMrZoKBeJ1/view?usp=sharing">Click Here</a>
 ---
 
 # Demo 
-![Gif](.Assets/TeamProfileVid)
+![Gif](.Assets/TeamProfileVid.gif)
 ![Question Screenshot](./Assets/question-screenshot.JPG)
 ![Test](./Assets/screenshot-test.JPG)
 ![HTML Site](./Assets/screenshot.JPG)
@@ -22,6 +21,13 @@ Demo: <a href="https://drive.google.com/file/d/1u8dA3MlEfGi8dAThzW93VSZMrZoKBeJ1
 This CLI application is a great tool to easily create html pages that will display employees basic contact informaton. 
 
 ---
+
+# Demo 
+
+<a href="https://drive.google.com/file/d/1u8dA3MlEfGi8dAThzW93VSZMrZoKBeJ1/view?usp=sharing">Click Here</a>
+
+--- 
+
 # Test
 
 run test in node by typing in npm run test

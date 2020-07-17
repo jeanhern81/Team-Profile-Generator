@@ -1,6 +1,5 @@
 # Employee Profile Generator
 
----
 
 # Demo 
 ![Gif](./Assets/TeamProfileVid.gif)

@@ -1,4 +1,4 @@
-# Employee Prifle Generator
+# Employee Profile Generator
 
 ---
 
